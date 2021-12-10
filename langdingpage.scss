@@ -1960,25 +1960,25 @@ i.fa {
 .animation-element {
   position: relative;
   width: 100%;
-  margin: 0% 1.33 2.66% 1.33%;
+  margin: 0% 0% 0% 0%;
   float: left;
 }
 /*3 grid layout*/
 
 .animation-element:nth-of-type(3n-2) {
   width: 100%;
-  margin: 0% 1.375% 2.75% 0%;
+  margin: 0% 0% 0% 0%;
   clear: left;
 }
 
 .animation-element:nth-of-type(3n-1) {
   width: 100%;
-  margin: 0% 1.375% 2.75% 1.375%;
+  margin: 0% 0% 0% 0%;
 }
 
 .animation-element:nth-of-type(3n-0) {
   width: 100%;
-  margin: 0% 0% 2.75% 1.375%;
+  margin: 0% 0% 0% 0%;
   clear: right;
 }
 /*bounce up animation for the subject*/
